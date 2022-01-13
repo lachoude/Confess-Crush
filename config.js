@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Đồng ýyyyyyyy',
     mess: 'Tụi biết mà. Love u chu cờ mo  😘😘',
     messDesc: 'Happy Birthday bạn iu nha',
-    btnAccept: 'Cảm ưnnn <3',
+    btnAccept: 'Nhấn vào đây để thấy điều kì diệu hehe',
     messLink: 'https://drive.google.com/file/d/1fogSfWs_auy4C8vjLpWqS2UikUd-kT0w/view' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
