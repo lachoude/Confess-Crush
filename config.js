@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    titleWeb: "Happy Birthday Tin Chu",
+    introTitle: 'Tin Chu',
+    introDesc: `Mừng Tin Chu tròn 22 tuổi
+    Chúc bạn luôn luôn dễ thương xinh đẹp
+    Ngày càng thành công trong cuộc sống
+    Dù có chuyện gì xảy ra đi nữa thì tụi mình vẫn luôn bên cạnh bạn`,
+    btnIntro: 'Love you hehe',
+    title: 'Chắc là Tin Chu đã nghĩ là tụi mình quên sinh nhật bạn đúng hong?',
+    desc: 'Nhưng khi nhận được cái này thì rất là xúc động :v',
+    btnYes: 'Rất xúc động <3',
+    btnNo: 'Thấy cũng bình thường',
+    question: 'Bạn có đồng ý làm friend mãi mãi với tụi mình hem? Tấu hài xuyên lục địa luôn',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'Đồng ýyyyyyyy',
+    mess: 'Tụi biết mà. Love u chu cờ mo  😘😘',
+    messDesc: 'Happy Birthday bạn iu nha',
+    btnAccept: 'Cảm ưnnn <3',
+    messLink: 'https://drive.google.com/file/d/1fogSfWs_auy4C8vjLpWqS2UikUd-kT0w/view' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
