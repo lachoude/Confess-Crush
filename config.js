@@ -7,7 +7,7 @@ const CONFIG = {
     Dù có chuyện gì xảy ra đi nữa thì tụi mình vẫn luôn bên cạnh bạn`,
     btnIntro: 'Love you hehe',
     title: 'Chắc là Tin Chu đã nghĩ là tụi mình quên sinh nhật bạn đúng hong?',
-    desc: 'Nhưng khi nhận được cái này thì rất là xúc động :v',
+    desc: 'Nhưng khi nhận được cái này thì rất là xúc động ^^',
     btnYes: 'Rất xúc động <3',
     btnNo: 'Thấy cũng bình thường',
     question: 'Bạn có đồng ý làm friend mãi mãi với tụi mình hem? Tấu hài xuyên lục địa luôn',
